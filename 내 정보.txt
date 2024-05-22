@@ -2,4 +2,5 @@
 나이 : 27살
 거주지 : 부산진구
 최종학력 : 대졸
-name Lee Seongmin
+name : Lee Seongmin
+연락처 : 010-0000-0000
